@@ -1,0 +1,292 @@
+*
+{
+    margin:0;
+    padding:0;
+    font-size: 14px;
+    box-sizing: border-box;
+    color:black;
+    font-family: Arial;
+}
+a{
+    text-decoration: none;
+}
+div{
+    display: flex;
+    justify-content: end;
+}
+ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    margin-right: 15px;
+    margin-top: 10px;
+    padding-right: 5px;
+
+}
+li{
+    padding: 14px 12px;
+}
+a:hover{
+text-decoration:underline;
+}
+.imges
+{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+   
+   
+}
+.imges:hover{
+    background-color: rgba(100, 100, 100,0.1);
+}
+   
+.imge{
+    width:15px;
+    align-items: center;
+    color:#000000de;
+    margin-right: 15px;
+
+}
+.cen
+{
+    display: flex;
+    align-items: center;
+    
+
+}
+.pic
+{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+background-color:indigo;
+/* margin-right: 15px;
+margin-top: 15px; */
+
+
+}
+#r
+{
+    display: flex;
+    align-items: center;
+    margin-left: 2px;
+    color:rgba(255,200,200,1)
+        
+}
+.foter
+{
+    height:46px;
+    
+    margin-bottom: 0;
+    margin-top: 507px;
+    /* margin-left:20px; */
+    display: flex;
+    justify-content:start;
+    border-top: 0.5px solid rgba(100, 100, 100,0.3);
+    background-color: rgba(20, 20, 20,0.1);
+    position:fixed;
+    bottom: 0px;
+    color:#202124;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+/* .below
+{
+    display: flex;
+    justify-content: start;
+    margin-left:20px;
+    list-style: none;
+   
+    color:rgba(100, 100, 100,0.5);
+} */
+   
+.right
+{
+    display: flex; 
+   justify-content: end;
+   margin-left: 720px;
+   padding-right: 50px;
+   
+   
+}
+.left
+{
+    display: flex;
+    width:400px;
+ justify-content: start;
+ margin-left: 20px;
+ 
+}
+ #india
+{
+    display: flex;
+    justify-content: start;
+    height:48;
+    width:1365px;
+    position:absolute;
+    bottom:46px;
+   
+     padding-left:15px; 
+
+background-color:rgba(20, 20, 20,0.1);
+} 
+#size
+{
+    font-size: 15px;
+    color:#202124;
+}
+.picture{
+    display: flex;
+    justify-content: center;
+    
+}
+/* @media screen and  (width:767px ;)
+ {
+    .picture{
+        height:60px;
+        width:120px;
+    }
+    
+} */
+.box
+{
+   
+
+    
+    height:46px;
+width:582px;
+border-radius: 50px;
+border: 1px solid rgba(20, 20, 20,0.1);
+
+
+
+}
+.box:hover
+{
+
+    box-shadow: 1px 1px 1px 1px  rgba( 3,3,3,0.1);
+    
+    /* background-color:#ffffff;
+    border: 2px solid rgba( 3,3,3,0.1) */
+
+}
+
+.box0
+{
+   
+    display: flex;
+    justify-content: space-around; 
+    border: left radius 20%;; 
+}
+.inpt
+{
+    display: flex;
+    justify-content: center;
+    
+}
+.box1
+{
+    height:36px;
+width:143px;
+border:none;
+background-color:#f8f9fa;
+padding-left:20px;
+padding-right: 20px;
+color:#000000de;
+font-size: 14px;
+border-radius: 4px;
+
+
+}
+
+.box2
+{
+    height:36px;
+width:150px;
+border:none;
+background-color:#f8f9fa;
+padding-left:20px;
+padding-right: 20px;
+color:#000000de;
+font-size: 14px;
+border-radius: 4px;
+
+}
+.box1:hover{
+    border:1px solid rgba(20, 20, 20,0.1); 
+}
+.box2:hover{
+    border:1px solid rgba(20, 20, 20,0.1);
+}
+.lann
+{
+    color:#1a0dab;
+    font-size: 13px;
+    margin-left: 10px;
+}
+.lan{
+    display: flex;
+    justify-content: center;
+}
+div{
+    color: #4d5156;
+    font-size: small;
+}
+.gmail{
+    font-size: 13px;
+    color:#000000de;
+}
+#magni
+{
+    width: 15px;
+  
+   justify-content: start;
+   position: absolute;
+   top:15px;
+   right:980px;
+  
+}
+.piccs
+{
+   
+    height:28px;
+    width:28px;
+    position: absolute;
+   top:10px;
+   right:490px;
+   
+
+   
+}
+.icn
+{
+    display: flex;
+    justify-content: space-between;
+}
+.ic
+{
+    display: flex;
+    justify-content:end;
+}
+form{
+    position: relative;
+
+}
+.imp{
+    display: flex;
+    justify-content: center;
+    
+}
+.picss
+{
+   
+    height:25px;
+    width:25px;
+    position: absolute;
+
+     top:11px;
+   right:450px;
+    
+   
+}
