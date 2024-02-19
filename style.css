@@ -290,3 +290,312 @@ form{
     
    
 }
+@media only screen and (max-width:900px) {
+
+.cent
+{
+    height:10px;
+    width:10px;
+}
+    .nav
+    {
+        display: flex;
+        justify-content: end;
+        width:100%;
+        font-size: 8px;
+    }
+    .lan{
+        display: flex;
+        justify-content: center;
+        position:absolute;
+        top:200px;
+        right:20px;
+        font-size: 8px;
+        
+    }
+    #magni
+{
+    width: 15px;
+  
+   justify-content: start;
+   position: absolute;
+   /* top:100px;
+   right:300px;
+   */
+}
+
+    #india
+{
+    display: flex;
+    justify-content: start;
+    height:48;
+     width:400px; 
+    position:absolute; 
+    bottom:23px;
+   
+     padding-left:5px; 
+
+background-color:rgba(20, 20, 20,0.1);
+} 
+.foter
+{
+    height:46px;
+    
+    margin-bottom: 0;
+    /* margin-top: 507px; */
+    /* margin-left:20px; */
+    display: flex;
+    justify-content:start;
+    border-top: 0.5px solid rgba(100, 100, 100,0.3);
+    background-color: rgba(20, 20, 20,0.1);
+    position:fixed;
+    bottom: 0px;
+    color:#202124;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+.picture{
+   
+    
+    height:35px;
+    width:60px;
+
+    position: absolute;
+    top:100px;
+    right:160px;
+    
+}
+.cen
+{
+    display: flex;
+    align-items: center;
+    
+
+}
+.pic
+{
+    width:25px;
+    height:25px;
+    border-radius: 50%;
+background-color:indigo;
+ margin-right: -10px;
+ /*
+margin-top: 15px; */
+
+
+}
+/* .below
+{
+    display: flex;
+    justify-content: start;
+    margin-left:20px;
+    list-style: none;
+   
+    color:rgba(100, 100, 100,0.5);
+} */
+   
+.right
+{
+    width: 150px;
+    display: flex; 
+   justify-content: end;
+   margin-left: 20px;
+   /* padding-right: 20px; */
+   
+   
+}
+.left
+{
+    display: flex;
+    width:230px;
+ justify-content: start;
+ margin-left: 50px;
+ 
+}
+.piccs{
+
+    height:12px;
+    width:15px;
+}
+.gmail
+{
+    font-size: 9px;
+}
+#size
+{
+    font-size: 8px;
+    color:#202124;
+}
+.vimp
+{
+    display: flex;
+    justify-content: center;
+}
+.lann
+{
+    color:#1a0dab;
+    font-size: 7px;
+    margin-left: 5px;
+}
+a{
+    text-decoration: none;
+}
+div{
+    display: flex;
+    justify-content: end;
+}
+ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    margin-right: 15px;
+    margin-top: 10px;
+    padding-right: 5px;
+
+}
+li{
+    padding: 7px 5px;
+    font-size: 9px;
+}
+div{
+    color: #4d5156;
+    font-size: small;
+}
+.gmail{
+    font-size: 8pxpx;
+    color:#000000de;
+}
+#magni
+{
+    width: 15px;
+  
+   justify-content: start;
+   position: absolute;
+   top:15px;
+   right:500px;
+  
+}
+a {
+    font-size: 7px;
+    
+}
+.piccs
+{
+   
+    height:18px;
+    width:18px;
+    position: absolute;
+   top:10px;
+   right:250px;
+   
+
+   
+}
+.icn
+{
+    display: flex;
+    justify-content: space-between;
+}
+.ic
+{
+    display: flex;
+    justify-content:end;
+}
+form{
+    position: relative;
+
+}
+.imp{
+    display: flex;
+    justify-content: center;
+    
+}
+.picss
+{
+   
+    height:15px;
+    width:15px;
+    position: absolute;
+
+     top:11px;
+   right:250px;
+    
+   
+}
+.box
+{
+   
+
+    
+    height:20px;
+width:250px;
+border-radius: 50px;
+border: 1px solid rgba(20, 20, 20,0.1);
+position: absolute;
+top:60px;
+right:60px;
+
+
+}
+.box:hover
+{
+
+    box-shadow: 2px 2px 2px 2px  rgba( 3,3,3,0.1);
+    
+    /* background-color:#ffffff;
+    border: 2px solid rgba( 3,3,3,0.1) */
+
+}
+
+.box0
+{
+   
+    display: flex;
+    justify-content: center; 
+    border: left radius 20%;; 
+}
+.inpt
+{
+    display: flex;
+    justify-content: center;
+    
+}
+.box1
+{
+    height:16px;
+width:70px;
+border:none;
+background-color:#f8f9fa;
+padding-left:3px;
+padding-right: 2px;
+color:#000000de;
+font-size: 9px;
+border-radius: 2px;
+margin-top:30px;
+margin-right: -10px;
+
+}
+.box2
+{
+    height:16px;
+width:76px;
+border:none;
+background-color:#f8f9fa;
+padding-left:3px;
+padding-right: 2px;
+color:#000000de;
+font-size: 9px;
+border-radius: 2px;
+margin-top: 30px;
+margin-right: -30px;
+margin-left: 5px;
+
+}
+.box1:hover{
+    border:2px solid rgba(20, 20, 20,0.1); 
+}
+.box2:hover{
+    border:2px solid rgba(20, 20, 20,0.1);
+}
+    
+}
