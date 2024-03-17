@@ -1294,7 +1294,6 @@ left:0px ;
 } 
  
 }
-
 @media only screen and (max-width: 567px) 
 {
   *
@@ -1319,16 +1318,26 @@ left:0px ;
     margin-left: 10px;
 
   }
-  .about{
-    display: flex;
-    max-width: 500px;
-    margin-left: 10px;
+  
+    .about{
 
-  }
+    height:43px;
+    
+    margin-left:0px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#70757a;
+    position: relative;
+    left:10px;
+    top:150px;
+    
+    }
+
+  
   section
   {
-    display: flex;
-    max-width: 500px;
+    
+   
     margin-left: 10px;
 
 
@@ -1336,3 +1345,4 @@ left:0px ;
 
 
 }
+
