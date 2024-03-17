@@ -1302,7 +1302,36 @@ left:0px ;
     font-size: 12px;
     margin:0px;
     padding:0px;
-    
+
+  }
+  .hdr
+  
+  {
+    display: flex;
+    max-width: 500px;
+
+
+  }
+  .padd 
+  {
+    display: flex;
+    max-width: 500px;
+    margin-left: 10px;
+
+  }
+  .about{
+    display: flex;
+    max-width: 500px;
+    margin-left: 10px;
+
+  }
+  section
+  {
+    display: flex;
+    max-width: 500px;
+    margin-left: 10px;
+
+
   }
 
 
